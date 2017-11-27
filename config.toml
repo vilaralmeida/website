@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://rodrigoalmeida.jampa.br"
 languageCode = "pt-br"
 title = "Rodrigo Almeida - Meus Projetos Pessoais :-)"
 theme = "hugo-initio"
