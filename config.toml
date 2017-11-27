@@ -1,0 +1,77 @@
+baseURL = ""
+languageCode = "pt-br"
+title = "Rodrigo Almeida - Meus Projetos Pessoais :-)"
+theme = "hugo-initio"
+publishDir = "docs"
+
+[params]
+    name = "Rodrigo Almeida"
+    description = "Soluções de Inteligência da Informação"
+    email = "rodrigo.almeida@gmail.com"
+    phone = "+55 83 996075219"
+    address = "João Pessoa - PB - Brasil"
+    year = 2017
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+
+    showSubheader = false
+    showServices = true
+    showRecentWorks = true
+    showDownload = false
+    showClients = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "blog"
+    url = "/post/"
+    weight = 5
+
+[params.disqus]
+    site = ""
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
+
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/roalme"
+    icon = "fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/nickname"
+    icon = "fa-instagram"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/rodrigoalmeida1"
+    icon = "fa-linkedin-square"
+    footer = false
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+	title = "tumblr"
+	url = "https://nickname.tumblr.com"
+    icon = "fa-tumblr-square"
+    footer = false
+    sharethis = false
+    network = "tumblr"
+[[params.social]]
+	title = "email"
+	url = "mailto:rodrigo.almeida@gmail.com"
+    icon = "fa-envelope"
+    footer = false
+    sharethis = true
+    network = "email"
