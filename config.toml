@@ -1,8 +1,9 @@
 baseURL = "https://rodrigoalmeida.jampa.br"
 languageCode = "pt-br"
+relativeURLs=true
 title = "Rodrigo Almeida - Meus Projetos Pessoais :-)"
 theme = "hugo-initio"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
     name = "Rodrigo Almeida"
