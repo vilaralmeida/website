@@ -1,4 +1,4 @@
-baseURL = "https://rodrigoalmeida.jampa.br"
+baseURL = "https://inteligencia.netlify.com/"
 languageCode = "pt-br"
 relativeURLs=true
 title = "Rodrigo Almeida - Meus Projetos Pessoais :-)"
@@ -12,7 +12,7 @@ publishDir = "public"
     phone = "+55 83 996075219"
     address = "João Pessoa - PB - Brasil"
     year = 2017
-    background = ""
+    background = "images/mac.jpg"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
 
