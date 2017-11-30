@@ -22,11 +22,8 @@ Construí esse site para falar das coisas que faço quando não estou com eles.
 
 ### DataScience + R + Shiny + Tensorflow
 
-Em 2014 iniciei o aprofundamento do tema DataScience, escolhendo o "ecossistema de soluções" R como ferramenta de trabalho. Desde então venho desenvolvendo soluções em [R](https://cran.r-project.org) + [Shiny](http://http://shiny.rstudio.com) e visualizações com a biblioteca [Highcharts](http://highcharts.com). Estou me aprofundando na implementação de soluções de Machine Learning em [R](https://cran.r-project.org) e [Tensorflow](https://www.tensorflow.org). Planejo utilizar meu conhecimento no desenvolvimento de soluções sociais inteligentes que de alguma forma ajudem o desenvolvimento da nossa sociedade através da compreensão e análise dos dados e informações públicas de qualquer natureza. 
+Em 2014 iniciei o aprofundamento do tema DataScience, escolhendo o "ecossistema de soluções" R como ferramenta de trabalho. Desde então venho desenvolvendo soluções em [R](https://cran.r-project.org) + [Shiny](http://http://shiny.rstudio.com) e visualizações com a biblioteca [Highcharts](http://highcharts.com). Estou me aprofundando na implementação de soluções de Machine Learning em [R](https://cran.r-project.org) e [Tensorflow](https://www.tensorflow.org). 
 
-### O que é uma solução social Inteligente?
-
-No contexto dessa plataforma, trata-se de soluções que viabilizem uma percepção social ampla do significado das informações públicas. Tal percepção pode provocar a identificação de fraudes, o mau uso de recursos ou mobilizar a sociedade a direcionar recursos onde melhor serão aplicados. O [Projeto Folha Limpa](http://folhalimpa.org) é um exemplo dessa abordagem, onde a partir de um conjunto de dados de difícil consumo identificamos super-salários e acúmulos de cargos. Isso foi feito através de uma interface de fácil navegação e usando estrutura de grafos para representar o relacionamento entre as diversas entidades, possibilitando *insights* visuais.
 
 ### Experiência Profissional
 

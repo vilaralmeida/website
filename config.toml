@@ -7,7 +7,7 @@ publishDir = "public"
 
 [params]
     name = "Rodrigo Almeida"
-    description = "Soluções para uma sociedade Inteligente"
+    description = "Ciência de Dados Aplicada"
     email = "rodrigo.almeida@gmail.com"
     phone = "+55 83 996075219"
     address = "João Pessoa - PB - Brasil"
@@ -16,7 +16,7 @@ publishDir = "public"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
 
-    showSubheader = true
+    showSubheader = false
     showServices = false
     showRecentWorks = true
     showDownload = false
